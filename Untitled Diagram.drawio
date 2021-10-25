@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T14:43:48.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6viKK4NvSD17zpiX4pRH" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T14:44:25.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="xa4B_2Py6uqsCYxK2bkf" version="15.5.9" type="github">
   <diagram id="pCYF1ZupuWEemld1GSwe" name="Page-1">
     <mxGraphModel dx="1826" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,13 +153,13 @@
         <mxCell id="EBzi6UNPib7ds7rI71un-53" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#B3FF66;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="400" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="EBzi6UNPib7ds7rI71un-54" value="Public Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3FF66;" vertex="1" parent="1">
+        <mxCell id="EBzi6UNPib7ds7rI71un-54" value="AWS Public Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="30" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBzi6UNPib7ds7rI71un-55" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#B3FF66;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="370" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="EBzi6UNPib7ds7rI71un-56" value="Private Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3FF66;" vertex="1" parent="1">
+        <mxCell id="EBzi6UNPib7ds7rI71un-56" value="AWS Private Subnet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3FF66;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EBzi6UNPib7ds7rI71un-57" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#B3FF66;fillColor=none;gradientColor=none;" vertex="1" parent="1">
